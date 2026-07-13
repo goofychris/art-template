@@ -1,3 +1,20 @@
+> ## ⚠️ 项目已停止维护 / No Longer Maintained
+>
+> **中文：**
+> 由于精力有限，无法继续投入维护，本项目自 2026 年 7 月 13 日起停止维护，
+> 不再提供任何功能更新、问题修复或安全补丁。
+> 请勿在生产环境中继续使用本项目，并尽快迁移到其他仍在积极维护的替代方案。
+> 仍在依赖本项目的用户，建议尽早移除或替换该依赖。
+> 感谢一直以来的使用与支持。
+>
+> **English:**
+> Due to limited time and capacity, this project is no longer maintained
+> as of July 13, 2026. It will receive no further feature updates, bug fixes,
+> or security patches. Please do not use it in production, and migrate to an
+> actively maintained alternative as soon as possible. Projects that still
+> depend on it are strongly advised to remove or replace this dependency.
+> Thank you for your past use and support.
+> 
 # art-template
 
 [![NPM Version](https://img.shields.io/npm/v/art-template.svg)](https://npmjs.org/package/art-template)
